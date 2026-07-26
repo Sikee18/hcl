@@ -4,14 +4,9 @@ __pycache__/
 *$py.class
 *.pyc
 
-# Data files (large CSVs - do not commit)
-data/train.csv
-data/test.csv
+# Generated output (your friend will generate this after running)
 submission.csv
 data/custom_submission.csv
-
-# Sample data (keep for reference)
-# data/sample_submission.csv
 
 # Environments
 .env
