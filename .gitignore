@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+# Data files (large CSVs - do not commit)
+data/train.csv
+data/test.csv
+submission.csv
+data/custom_submission.csv
+
+# Sample data (keep for reference)
+# data/sample_submission.csv
+
+# Environments
+.env
+.venv
+env/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDEs
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
